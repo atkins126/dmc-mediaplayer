@@ -1,7 +1,7 @@
 # DMIT Computers Media Player
 The source code by DMIT Computers.
 Created on HiAsm v4.0.
-<p><a href="https://github.com/dmitryevdev/dmc-mediaplayer/releases/tag/3.0.711">Download latest version of Media Player</a>
+<p><a href="https://github.com/dmitryevdev/dmc-mediaplayer/releases/tag/3.0.711">Download latest version of Media Player (*.EXE)</a>
 <p>Supported Windows OS versions: Windows 98, 2000, ME, XP, Vista, 7, 8.1 and 10.</p>
 <p><img src='https://raw.githubusercontent.com/dmitryevdev/dmc-mediaplayer/master/view.png'>
 <img src='https://raw.githubusercontent.com/dmitryevdev/dmc-mediaplayer/master/view2.png'></p>
