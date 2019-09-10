@@ -1094,8 +1094,7 @@ object Form4: TForm4
     0000000000000000000000000000000000000000000000000000000000000000
     000000000000}
   OldCreateOrder = False
-  ScreenSnap = True
-  ShowHint = True
+  ShowHint = False
   SnapBuffer = 400
   OnActivate = FormActivate
   PixelsPerInch = 96
@@ -1108,8 +1107,6 @@ object Form4: TForm4
     Align = alClient
     ItemHeight = 13
     TabOrder = 0
-    ExplicitLeft = 48
-    ExplicitWidth = 386
   end
   object Panel1: TPanel
     Left = 74
@@ -1176,7 +1173,6 @@ object Form4: TForm4
     Align = alBottom
     BevelOuter = bvNone
     TabOrder = 2
-    ExplicitTop = 225
     object Panel3: TPanel
       Left = 0
       Top = 0
@@ -1185,7 +1181,6 @@ object Form4: TForm4
       Align = alClient
       BevelOuter = bvNone
       TabOrder = 0
-      ExplicitWidth = 297
       object Button2: TButton
         Left = 89
         Top = 8
