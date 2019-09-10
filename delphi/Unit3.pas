@@ -16,6 +16,7 @@ type
     Image1: TImage;
     Image2: TImage;
     procedure Button1Click(Sender: TObject);
+    procedure FormClose(Sender: TObject; var Action: TCloseAction);
   private
     { Private declarations }
   public
@@ -35,6 +36,12 @@ uses Unit1;
 procedure TForm3.Button1Click(Sender: TObject);
 begin
 Form3.Close;
+Form1.Enabled:=True;
+Form1.Show;
+end;
+
+procedure TForm3.FormClose(Sender: TObject; var Action: TCloseAction);
+begin
 Form1.Enabled:=True;
 Form1.Show;
 end;
