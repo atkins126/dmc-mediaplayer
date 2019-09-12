@@ -1,4 +1,4 @@
-﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
     <PropertyGroup>
         <ProjectGuid>{98D0A577-A240-47C3-A187-9FA7CD3AC4D5}</ProjectGuid>
         <ProjectVersion>18.6</ProjectVersion>
@@ -85,13 +85,13 @@
         <AppDPIAwarenessMode>PerMonitorV2</AppDPIAwarenessMode>
         <VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
         <VerInfo_MajorVer>3</VerInfo_MajorVer>
-        <VerInfo_Build>1105</VerInfo_Build>
-        <VerInfo_PreRelease>true</VerInfo_PreRelease>
+        <VerInfo_Build>1200</VerInfo_Build>
         <VerInfo_Locale>1049</VerInfo_Locale>
-        <VerInfo_Keys>CompanyName=;FileDescription=$(MSBuildProjectName);FileVersion=3.0.0.1105;InternalName=DMIT Computers Media Player;LegalCopyright=;LegalTrademarks=;OriginalFilename=dmc-player_3.0.1105;ProgramID=com.embarcadero.$(MSBuildProjectName);ProductName=DMIT Computers Media Player;ProductVersion=3.0.1105;Comments=</VerInfo_Keys>
-        <Icon_MainIcon>mplayer_Icon1.ico</Icon_MainIcon>
+        <VerInfo_Keys>CompanyName=DMIT Computers;FileDescription=DMIT Computers Media Player;FileVersion=3.1.0.1200;InternalName=DMIT Computers Media Player;LegalCopyright=;LegalTrademarks=;OriginalFilename=dmc-player_3.1.1200;ProgramID=com.dmitcomp.mplayer;ProductName=DMIT Computers Media Player;ProductVersion=3.1.1200;Comments=</VerInfo_Keys>
+        <Icon_MainIcon>..\..\..\..\Desktop\delphi\dmc-mplayer_Icon.ico</Icon_MainIcon>
         <UWP_DelphiLogo44>..\..\..\..\Pictures\buttons\mediaplayer.png</UWP_DelphiLogo44>
         <UWP_DelphiLogo150>..\..\..\..\Pictures\buttons\mediaplayer.png</UWP_DelphiLogo150>
+        <VerInfo_MinorVer>1</VerInfo_MinorVer>
     </PropertyGroup>
     <PropertyGroup Condition="'$(Cfg_2)'!=''">
         <DCC_LocalDebugSymbols>false</DCC_LocalDebugSymbols>
